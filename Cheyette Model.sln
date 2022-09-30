@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Runner", "Runner", "{08BEBD79-7E6E-4247-9512-4432E6D54667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Run.Console", "Runner\Run.Console\Run.Console.csproj", "{7F40A552-A8EF-4628-AF0C-C6C716C3E2DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F40A552-A8EF-4628-AF0C-C6C716C3E2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F40A552-A8EF-4628-AF0C-C6C716C3E2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F40A552-A8EF-4628-AF0C-C6C716C3E2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F40A552-A8EF-4628-AF0C-C6C716C3E2DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7F40A552-A8EF-4628-AF0C-C6C716C3E2DB} = {08BEBD79-7E6E-4247-9512-4432E6D54667}
+	EndGlobalSection
+EndGlobal

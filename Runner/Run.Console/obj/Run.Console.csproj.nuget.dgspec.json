@@ -1,0 +1,269 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/Runner/Run.Console/Run.Console.csproj": {}
+  },
+  "projects": {
+    "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/Calibration/Calibration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/Calibration/Calibration.csproj",
+        "projectName": "Calibration",
+        "projectPath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/Calibration/Calibration.csproj",
+        "packagesPath": "/Users/khalilmejouate/.nuget/packages/",
+        "outputPath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/Calibration/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/khalilmejouate/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/LSDSimulation.csproj": {
+                "projectPath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/LSDSimulation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/LSDSimulation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/LSDSimulation.csproj",
+        "projectName": "LSDSimulation",
+        "projectPath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/LSDSimulation.csproj",
+        "packagesPath": "/Users/khalilmejouate/.nuget/packages/",
+        "outputPath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/khalilmejouate/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1001, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/ModelFactory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/ModelFactory.csproj",
+        "projectName": "ModelFactory",
+        "projectPath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/ModelFactory.csproj",
+        "packagesPath": "/Users/khalilmejouate/.nuget/packages/",
+        "outputPath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/khalilmejouate/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/Calibration/Calibration.csproj": {
+                "projectPath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/Calibration/Calibration.csproj"
+              },
+              "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/LSDSimulation.csproj": {
+                "projectPath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/LSDSimulation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1001, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/Runner/Run.Console/Run.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/Runner/Run.Console/Run.Console.csproj",
+        "projectName": "Run.Console",
+        "projectPath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/Runner/Run.Console/Run.Console.csproj",
+        "packagesPath": "/Users/khalilmejouate/.nuget/packages/",
+        "outputPath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/Runner/Run.Console/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/khalilmejouate/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/Calibration/Calibration.csproj": {
+                "projectPath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/Calibration/Calibration.csproj"
+              },
+              "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/LSDSimulation.csproj": {
+                "projectPath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/LSDSimulation.csproj"
+              },
+              "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/ModelFactory.csproj": {
+                "projectPath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/ModelFactory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[28.0.1, )"
+            },
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

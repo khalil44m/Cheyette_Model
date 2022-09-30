@@ -1,0 +1,12 @@
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/bin/Debug/net6.0/LSDSimulation.deps.json
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/bin/Debug/net6.0/LSDSimulation.dll
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/bin/Debug/net6.0/LSDSimulation.pdb
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/obj/Debug/net6.0/LSDSimulation.csproj.AssemblyReference.cache
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/obj/Debug/net6.0/LSDSimulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/obj/Debug/net6.0/LSDSimulation.AssemblyInfoInputs.cache
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/obj/Debug/net6.0/LSDSimulation.AssemblyInfo.cs
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/obj/Debug/net6.0/LSDSimulation.csproj.CoreCompileInputs.cache
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/obj/Debug/net6.0/LSDSimulation.dll
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/obj/Debug/net6.0/refint/LSDSimulation.dll
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/obj/Debug/net6.0/LSDSimulation.pdb
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/obj/Debug/net6.0/ref/LSDSimulation.dll

@@ -1,0 +1,17 @@
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/bin/Debug/net6.0/ModelFactory.deps.json
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/bin/Debug/net6.0/ModelFactory.dll
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/bin/Debug/net6.0/ModelFactory.pdb
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/bin/Debug/net6.0/Calibration.dll
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/bin/Debug/net6.0/LSDSimulation.dll
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/bin/Debug/net6.0/LSDSimulation.pdb
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/bin/Debug/net6.0/Calibration.pdb
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/obj/Debug/net6.0/ModelFactory.csproj.AssemblyReference.cache
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/obj/Debug/net6.0/ModelFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/obj/Debug/net6.0/ModelFactory.AssemblyInfoInputs.cache
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/obj/Debug/net6.0/ModelFactory.AssemblyInfo.cs
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/obj/Debug/net6.0/ModelFactory.csproj.CoreCompileInputs.cache
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/obj/Debug/net6.0/ModelFactory.csproj.CopyComplete
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/obj/Debug/net6.0/ModelFactory.dll
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/obj/Debug/net6.0/refint/ModelFactory.dll
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/obj/Debug/net6.0/ModelFactory.pdb
+/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/ModelFactory/obj/Debug/net6.0/ref/ModelFactory.dll

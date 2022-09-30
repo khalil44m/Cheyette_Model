@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z3xJ0DVxBa9uiNNhWU+urkqZbPpaRv6r/KTtvkY4V9by39yJ6qlYvkSl2kGjlXMt7TTmJ2vDJAx8tK85xkh6nw==",
+  "success": true,
+  "projectFilePath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/Calibration/Calibration.csproj",
+  "expectedPackageFiles": [
+    "/Users/khalilmejouate/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512",
+    "/Users/khalilmejouate/.nuget/packages/microsoft.office.interop.excel/15.0.4795.1001/microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}

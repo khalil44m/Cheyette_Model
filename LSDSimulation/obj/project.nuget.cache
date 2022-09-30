@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j12sgfwKALOxw6ORayOWlzGHiOiQns0dzvTz+Yms4jjXTrdm6VUF0dK3d6cs7CF1/UZdFAoKYr46sIvH/DNhjA==",
+  "success": true,
+  "projectFilePath": "/Users/khalilmejouate/Projects/Training-CS/Cheyette Model/LSDSimulation/LSDSimulation.csproj",
+  "expectedPackageFiles": [
+    "/Users/khalilmejouate/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512",
+    "/Users/khalilmejouate/.nuget/packages/microsoft.office.interop.excel/15.0.4795.1001/microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
