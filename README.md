@@ -1,7 +1,7 @@
 # Cheyette_Model
 Forward Rate Model
 
-This repo contains a restitued work from a previous experience of implementing a Interest Forward Rate pricing model.
+This repo contains a restitued work from a previous experience of implementing an Interest Forward Rate pricing model.
 
 Cheyette model belongs to the class of continuous no-arbitrage Term Structure models (known as [Heath-Jarrow-Merton Framework][1]). In the HJM framework, the drift of no-arbitrage evolution of the instantaneous forward rate ican be expressed as a function of its volatilities and correlation among them. In general, The markovian property is sadly compromiseed when looking at the SDE.  Oren Cheyette deals with the non-markovian limitation (path dependence complexity) by imposing a forward rate volatility term structure.
 
